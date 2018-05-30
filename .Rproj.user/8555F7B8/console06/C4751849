@@ -1,0 +1,180 @@
+hugo -v
+INFO 2018/05/28 20:16:59 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:16:59 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+ERROR 2018/05/28 20:16:59 frontmatter delimiter must be followed by CR+LF or LF but those can't be found at filepos 4008 for publication/clothing-search.md
+[?25h[KTotal in 57 ms
+Error: Error building site: frontmatter delimiter must be followed by CR+LF or LF but those can't be found at filepos 4008
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:17:53 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:17:53 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+INFO 2018/05/28 20:17:53 found taxonomies: map[string]string{"publication_type":"publication_types", "tag":"tags", "category":"categories"}
+INFO 2018/05/28 20:17:53 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/publication_types/1/page/1/index.html" translated to "publication_types/1/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+INFO 2018/05/28 20:17:53 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 13  
+  Processed images |  0  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 150 ms
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:18:10 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:18:10 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+INFO 2018/05/28 20:18:10 found taxonomies: map[string]string{"tag":"tags", "category":"categories", "publication_type":"publication_types"}
+INFO 2018/05/28 20:18:10 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/publication_types/1/page/1/index.html" translated to "publication_types/1/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+INFO 2018/05/28 20:18:10 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 13  
+  Processed images |  0  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 218 ms
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:26:58 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:26:58 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+ERROR 2018/05/28 20:26:58 failed to parse page metadata for "publication/person-re-identification.md": Near line 20 (last key parsed 'publication_short'): strings cannot contain newlines for publication/person-re-identification.md
+[?25h[KTotal in 63 ms
+Error: Error building site: failed to parse page metadata for "publication/person-re-identification.md": Near line 20 (last key parsed 'publication_short'): strings cannot contain newlines
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:27:34 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:27:34 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+ERROR 2018/05/28 20:27:34 failed to parse page metadata for "publication/person-re-identification.md": Near line 20 (last key parsed 'publication_short'): strings cannot contain newlines for publication/person-re-identification.md
+[?25h[KTotal in 66 ms
+Error: Error building site: failed to parse page metadata for "publication/person-re-identification.md": Near line 20 (last key parsed 'publication_short'): strings cannot contain newlines
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:27:43 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:27:43 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+INFO 2018/05/28 20:27:43 found taxonomies: map[string]string{"tag":"tags", "category":"categories", "publication_type":"publication_types"}
+INFO 2018/05/28 20:27:43 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/publication_types/1/page/1/index.html" translated to "publication_types/1/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+INFO 2018/05/28 20:27:43 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 13  
+  Processed images |  0  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 199 ms
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:29:54 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:29:54 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+INFO 2018/05/28 20:29:54 found taxonomies: map[string]string{"tag":"tags", "category":"categories", "publication_type":"publication_types"}
+INFO 2018/05/28 20:29:54 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/publication_types/1/page/1/index.html" translated to "publication_types/1/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+INFO 2018/05/28 20:29:54 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 13  
+  Processed images |  0  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 206 ms
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ hugo -v
+INFO 2018/05/28 20:36:08 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/28 20:36:08 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+INFO 2018/05/28 20:36:08 found taxonomies: map[string]string{"publication_type":"publication_types", "tag":"tags", "category":"categories"}
+INFO 2018/05/28 20:36:08 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/publication_types/1/page/1/index.html" translated to "publication_types/1/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+INFO 2018/05/28 20:36:08 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 13  
+  Processed images |  0  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 176 ms
+hugo -v
+INFO 2018/05/29 23:40:44 Using config file: /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/config.toml
+[?25lBuilding sites … INFO 2018/05/29 23:40:44 syncing static files to /Users/selcukkorkmaz/Documents/GitHub/skorkmaz/public/
+INFO 2018/05/29 23:40:44 found taxonomies: map[string]string{"tag":"tags", "category":"categories", "publication_type":"publication_types"}
+INFO 2018/05/29 23:40:44 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2018/05/29 23:40:44 Alias "/recent_publication/page/1/index.html" translated to "recent_publication/page/1/index.html"
+INFO 2018/05/29 23:40:44 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2018/05/29 23:40:44 Alias "/publication_types/1/page/1/index.html" translated to "publication_types/1/page/1/index.html"
+INFO 2018/05/29 23:40:44 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2018/05/29 23:40:44 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+ERROR 2018/05/29 23:40:44 Error while rendering "home" in "": template: theme/index.html:1:3: executing "theme/index.html" at <partial "widget_page...>: error calling partial: template: theme/partials/widget_page.html:23:9: executing "theme/partials/widget_page.html" at <partial $widget $par...>: error calling partial: Partial "widgets/recent_publications.html" not found
+]0;~/Documents/GitHub/skorkmazSelcuk-MacBook-Pro-2:skorkmaz selcukkorkmaz$ 

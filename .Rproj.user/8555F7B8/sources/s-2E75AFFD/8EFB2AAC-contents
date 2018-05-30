@@ -1,0 +1,65 @@
++++
+title = "geneSurv: An interactive web-based tool for survival analysis in genomics research"
+date = 2015-09-01T00:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["S Korkmaz", "D Göksülük", "G Zararsız", "S Karahan"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Computers in Biology and Medicine 89 (2017): 487-496.*"
+publication_short = "In *Computers in Biology and Medicine*"
+
+# Abstract and optional shortened version.
+abstract = "Survival analysis methods are often used in cancer studies. It has been shown that the combination of clinical data with genomics increases the predictive performance of survival analysis methods. But, this leads to a high-dimensional data problem. Fortunately, new methods have been developed in the last decade to overcome this problem. However, there is a strong need for easily accessible, user-friendly and interactive tool to perform survival analysis in the presence of genomics data. We developed an open-source and freely available web-based tool for survival analysis methods that can deal with high-dimensional data. This tool includes classical methods, such as Kaplan-Meier, Cox proportional hazards regression, and advanced methods, such as penalized Cox regression and Random Survival Forests. It also offers an optimal cutoff determination method based on maximizing several test statistics. The tool has a simple and interactive interface, and it can handle high dimensional data through feature selection and ensemble methods. To dichotomize gene expressions, geneSurv can identify optimal cutoff points. Users can upload their microarray, RNA-Seq, chip-Seq, proteomics, metabolomics or clinical data as a nxp dimensional data matrix, where n refers to samples and p refers to genes. This tool is available free at www.biosoft.hacettepe.edu.tr/geneSurv. All source code is available at https://github.com/selcukorkmaz/geneSurv under the GPL-3 license."
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+projects = ["deep-learning"]
+
+# Links (optional).
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S001048251730286X"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
+
+
++++
+
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

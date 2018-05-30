@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527453388725.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1AE7C6FC",
+    "lastKnownWriteTime" : 1527626391,
+    "last_content_update" : 1527626391363,
+    "path" : "~/Documents/GitHub/skorkmaz/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "245,10",
+        "scrollLine" : "234"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

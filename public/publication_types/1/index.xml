@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on DR. SELÇUK KORKMAZ</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on DR. SELÇUK KORKMAZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 31 Dec 2014 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MVN: An R Package for Assessing Multivariate Normality</title>
+      <link>/publication/mvn/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/mvn/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Drug/nondrug classification using Support Vector Machines with various feature selection strategies</title>
+      <link>/publication/drug/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/drug/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

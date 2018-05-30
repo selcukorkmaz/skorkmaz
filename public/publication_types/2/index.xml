@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on DR. SELÇUK KORKMAZ</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on DR. SELÇUK KORKMAZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>geneSurv: An interactive web-based tool for survival analysis in genomics research</title>
+      <link>/publication/genesurv/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/genesurv/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>MLViS: A Web Tool for Machine Learning-Based Virtual Screening in Early-Phase of Drug Discovery and Development</title>
+      <link>/publication/mlvis/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/mlvis/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
