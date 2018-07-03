@@ -16,7 +16,7 @@
       <pubDate>Thu, 31 May 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/protein/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Korkmaz S, Duarte JM, Prlić A, Goksuluk D, Zararsiz G, Saracbasi O, et al. (2018) Investigation of protein quaternary structure via stoichiometry and symmetry ınformation. PLoS ONE 13(6): e0197176. &lt;a href=&#34;https://doi.org/10.1371/&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1371/&lt;/a&gt; journal.pone.0197176&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Korkmaz S, Duarte JM, Prlić A, Goksuluk D, Zararsiz G, Saracbasi O, et al. (2018) Investigation of protein quaternary structure via stoichiometry and symmetry ınformation. PLoS ONE 13(6): e0197176. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0197176&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1371/journal.pone.0197176&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -27,6 +27,16 @@
       
       <guid>/publication/ageml/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Singh, S. P., Janjuha, S., Chaudhuri, S. et al. (2018). Machine learning based classification of cells into chronological stages using single-cell transcriptomics. bioRxiv, 303214.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy</title>
+      <link>/publication/retinal/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/retinal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Guclu, O., Guclu, H., Huseyin, S., Korkmaz, S., Yuksel, V., Canbaz, S., &amp;amp; Gurlu, V. P. Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy. International Ophthalmology, 1-9, doi: &lt;a href=&#34;https://doi.org/10.1007/s10792-018-0973-4&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1007/s10792-018-0973-4&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -178,16 +188,6 @@ Analysis of variance or linear mixed effects models will be performed to obtain 
       
       <guid>/publication/easyroc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Goksuluk, D., Korkmaz, S., Zararsiz, G., Karaagaoglu, A. E. (2016). easyROC: an interactive web-tool for ROC curve analysis using R language environment. R Journal, 8(213).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistical learning approaches in diagnosing patients with nontraumatic acute abdomen</title>
-      <link>/publication/nontraumatic/</link>
-      <pubDate>Mon, 20 Jun 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/nontraumatic/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Zararsız, G., Akyildiz, H. Y., Göksülük, D., Korkmaz, S., ÖZTÜRK, A. (2016). Statistical learning approaches in diagnosing patients with nontraumatic acute abdomen. Turkish Journal of Electrical Engineering &amp;amp; Computer Sciences, 24(5), 3685-3697.&lt;/p&gt;
 </description>
     </item>
     
