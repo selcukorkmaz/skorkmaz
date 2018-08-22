@@ -31,6 +31,16 @@
     </item>
     
     <item>
+      <title>Machine learning based classification of cells into chronological stages using single-cell transcriptomics.</title>
+      <link>/publication/biologicalvariation/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/biologicalvariation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Falay M, Senes M, Korkmaz S, et al. Biological variation estimates of prothrombin time, activated partial thromboplastin time, and fibrinogen in 28 healthy individuals. Int J Lab Hem. 2018;00:1–5.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy</title>
       <link>/publication/retinal/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0300</pubDate>
@@ -179,16 +189,6 @@ Analysis of variance or linear mixed effects models will be performed to obtain 
       
       <guid>/talk/example-talk/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>easyROC: an interactive web-tool for ROC curve analysis using R language environment</title>
-      <link>/publication/easyroc/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/easyroc/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Goksuluk, D., Korkmaz, S., Zararsiz, G., Karaagaoglu, A. E. (2016). easyROC: an interactive web-tool for ROC curve analysis using R language environment. R Journal, 8(213).&lt;/p&gt;
-</description>
     </item>
     
   </channel>
