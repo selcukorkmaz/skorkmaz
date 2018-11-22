@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SELÇUK KORKMAZ, PH.D.</title>
+    <title>Recent Publications on SELÇUK KORKMAZ, PH.D.</title>
     <link>/recent_publication/</link>
-    <description>Recent content on SELÇUK KORKMAZ, PH.D.</description>
+    <description>Recent content in Recent Publications on SELÇUK KORKMAZ, PH.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Selçuk Korkmaz</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/recent_publication/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>geneSurv: An interactive web-based tool for survival analysis in genomics research</title>
+  </channel>
+</rss>or survival analysis in genomics research</title>
       <link>/recent_publication/genesurv/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
