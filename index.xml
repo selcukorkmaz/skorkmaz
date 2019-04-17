@@ -11,12 +11,62 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MLSeq: Machine learning interface for RNA sequencing data</title>
+      <link>/publication/mlseq/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/mlseq/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Göksülük D, Zararsız G, Korkmaz S, Eldem V, Klaus B, Öztürk A, Karaağaoğlu AE. MLSeq: Machine learning interface for RNA sequencing data. Computer Methods and Programs in Biomedicine. (Accepted/In press).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can myometrial thickness/cervical length ratio predict preterm delivery in singleton pregnancies with threatened preterm labor? A prospective study</title>
+      <link>/publication/cervical/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/cervical/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Gürsoy, S. E., Sayin, N. C., Korkmaz, S., Sutcu, H., Inan, C., Uzun, I. C., &amp;amp; Varol, F. G. (2019). Can myometrial thickness/cervical length ratio predict preterm delivery in singleton pregnancies with threatened preterm labor? A prospective study. Archives of gynecology and obstetrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Small Drug Molecule Classification Using Deep Neural Networks</title>
+      <link>/publication/deepdrug/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/deepdrug/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Korkmaz S. Small Drug Molecule Classification Using Deep Neural Networks. Turkiye Klinikleri J Biostat. (Accepted/In press).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Relationship Between Diffusion-Weighted Magnetic Resonance Imaging Lesions and 24-Hour Rhythm Holter Findings in Patients With Cryptogenic Stroke</title>
+      <link>/publication/cardiology/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/cardiology/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Gürdoğan, M.; Kehaya, S.; Korkmaz, S.; Altay, S.; Özkan, U.; Kaya, Ç. The Relationship between Diffusion-Weighted Magnetic Resonance Imaging Lesions and 24-Hour Rhythm Holter Findings in Patients with Cryptogenic Stroke . Medicina 2019, 55, 38.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Machine learning based classification of cells into chronological stages using single-cell transcriptomics</title>
       <link>/publication/ageml/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/ageml/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Singh, S. P., Janjuha, S., Chaudhuri, S. et al. (2018). Machine learning based classification of cells into chronological stages using single-cell transcriptomics. Scientific Reports, (Accepted/In press).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of the Golden Ratio in Human Heart Anatomically by Cardiac Magnetic Resonance Imaging Method</title>
+      <link>/publication/goldenratio/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/goldenratio/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Gürdoğan M, Ustabaşıoğlu FM, Çelik AO, Korkmaz S. (2018). &amp;ldquo;Investigation of the Golden Ratio in Human Heart Anatomically by Cardiac Magnetic Resonance Imaging Method&amp;rdquo;, International Journal of Research Studies in Medical and Health Sciences, 3:11, 10-14.&lt;/p&gt;
 </description>
     </item>
     
@@ -126,69 +176,6 @@ Analysis of variance or linear mixed effects models will be performed to obtain 
       <guid>/publication/rnaseq/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Zararsız G, Goksuluk D, Korkmaz S, Eldem V, Zararsiz GE, Duru IP, et al. (2017) A comprehensive simulation study on classification of RNA-Seq data. PLoS ONE 12(8): e0182507. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0182507&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1371/journal.pone.0182507&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study</title>
-      <link>/publication/children/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/children/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Bal, C., Öztürk, A., Çiçek, et al. (2018). The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study. Journal of clinical research in pediatric endocrinology, 10(1), 51.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>geneSurv: An interactive tool for survival analysis in genomics research</title>
-      <link>/project/genesurv/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/project/genesurv/</guid>
-      <description>&lt;p&gt;Survival analysis is often used in cancer studies. It has been shown that combination of clinical data with genomics increases predictive performance of survival analysis methods. This tool provides a wide range of survival analysis methods for genomic research, especially in cancer studies. The tool includes analysis methods including Kaplan-Meier, Cox regression, Penalized Cox regression and Random Survival Forests. It also offers methods for optimal cutoff point determination for continuous markers.&lt;/p&gt;
-
-&lt;p&gt;Each procedure includes following features:&lt;/p&gt;
-
-&lt;p&gt;Kaplan-Meier: descriptive statistics, survival table, mean and median life time, hazard ratios, comparison tests including Log-rank, Gehan-Breslow, Tarone-Ware, Peto-Peto, Modified Peto-Peto, Flemington-Harrington, and interactive plots such as Kaplan-Meier curves and hazard plots.&lt;/p&gt;
-
-&lt;p&gt;Cox regression: coefficient estimates, hazard ratios, goodness of fit test, analysis of deviance, save predictions, save residuals, save Martingale residuals, save Schoenfeld residuals, save dfBetas, proportional hazard assumption test, and interactive plots including Schoenfeld residual plot and Log-Minus-Log plot.&lt;/p&gt;
-
-&lt;p&gt;Penalized Cox regression: feature selection using ridge, elastic net and lasso penalization. A cross-validation to investigate the relationship between partial likelihood devaince and lambda values.&lt;/p&gt;
-
-&lt;p&gt;Random survival forests: individual survival predictions, individual cumulative hazard predictions, error rate, variable importance, and interactive plots including random survival plot, cumulative hazard plot, error rate plot, Cox vs RSF plot&lt;/p&gt;
-
-&lt;p&gt;Optimal cutoff: determination of optimal cutoff value by maxmizing test statistics, including log-rank, Gehan-Breslow, Tarone-Ware, Peto-Peto, modified Peto-Peto, Flemington-Harrington.&lt;/p&gt;
-
-&lt;p&gt;This tool freely available through &lt;a href=&#34;http://www.biosoft.hacettepe.edu.tr/geneSurv/&#34; target=&#34;_blank&#34;&gt;http://www.biosoft.hacettepe.edu.tr/geneSurv/&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Diagonal Discriminant Analysis for Gene-Expression Based Tumor Classification</title>
-      <link>/publication/diagonal/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/diagonal/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Zararsiz, G., Korkmaz, S., Goksuluk, D., Eldem, V., &amp;amp; Ozturk, A. (2015). Diagonal Discriminant Analysis for Gene-Expression Based Tumor Classification. Journal of Advances in Information Technology Vol, 6(2).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genome Wide Gene Expression Profiling and Molecular Classification of Renal Cell Cancer Subtypes</title>
-      <link>/publication/renalcell/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/renalcell/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Zararsız, G., Zararsız, G. E., Öztürk, A., Göksülük, D., Korkmaz, S., Eldem, V., Taşçi, T. (2017). Genome Wide Gene Expression Profiling and Molecular Classification of Renal Cell Cancer Subtypes. Journal of Advances in Information Technology Vol, 8(1).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Çocuk Nefroloji Derneği Biyoistatistik Eğitimi</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description></description>
     </item>
     
   </channel>
