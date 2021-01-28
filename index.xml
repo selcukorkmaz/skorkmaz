@@ -6,9 +6,29 @@
     <description>Recent content in SELÇUK KORKMAZ, PH.D. on SELÇUK KORKMAZ, PH.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Selçuk Korkmaz</copyright>
+    <copyright>&amp;copy; 2020 Selçuk Korkmaz</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biological variation of peripheral blood T-lymphocytes</title>
+      <link>/publication/falayetal2019-kopyas%C4%B1/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/falayetal2019-kopyas%C4%B1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Falay, M., Senes, M., Korkmaz, S., Zararsız, G., Turhan, T., Okay, M., Yucel, D. (2019). Biological variation of peripheral blood T-lymphocytes. Journal of immunological methods, 470, 1-5.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biological variation of peripheral blood T-lymphocytes</title>
+      <link>/publication/falayetal2019/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/falayetal2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Falay, M., Senes, M., Korkmaz, S., Zararsız, G., Turhan, T., Okay, M., Yucel, D. (2019). Biological variation of peripheral blood T-lymphocytes. Journal of immunological methods, 470, 1-5.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MLSeq: Machine learning interface for RNA sequencing data</title>
@@ -57,6 +77,16 @@
       
       <guid>/publication/ageml/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Singh, S. P., Janjuha, S., Chaudhuri, S. et al. (2018). Machine learning based classification of cells into chronological stages using single-cell transcriptomics. Scientific Reports, (Accepted/In press).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study</title>
+      <link>/publication/children/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/children/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Bal, C., Öztürk, A., Çiçek, et al. (2018). The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study. Journal of clinical research in pediatric endocrinology, 10(1), 51.&lt;/p&gt;
 </description>
     </item>
     
@@ -145,36 +175,6 @@ Analysis of variance or linear mixed effects models will be performed to obtain 
       
       <guid>/publication/genesurv/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Korkmaz, S., Goksuluk, D., Zararsiz, G., Karahan, S. (2017). geneSurv: An interactive web-based tool for survival analysis in genomics research. Computers in biology and medicine, 89, 487-496.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>geneSurv: An interactive web-based tool for survival analysis in genomics research</title>
-      <link>/recent_publication/genesurv/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/recent_publication/genesurv/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A comprehensive simulation study on classification of RNA-Seq data</title>
-      <link>/publication/rnaseq/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/rnaseq/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Zararsız G, Goksuluk D, Korkmaz S, Eldem V, Zararsiz GE, Duru IP, et al. (2017) A comprehensive simulation study on classification of RNA-Seq data. PLoS ONE 12(8): e0182507. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0182507&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1371/journal.pone.0182507&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study</title>
-      <link>/publication/children/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/children/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Bal, C., Öztürk, A., Çiçek, et al. (2018). The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study. Journal of clinical research in pediatric endocrinology, 10(1), 51.&lt;/p&gt;
 </description>
     </item>
     
