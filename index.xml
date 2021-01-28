@@ -6,9 +6,50 @@
     <description>Recent content in SELÇUK KORKMAZ, PH.D. on SELÇUK KORKMAZ, PH.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Selçuk Korkmaz</copyright>
+    <copyright>&amp;copy; 2021 Selçuk Korkmaz</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BioVar: an online biological variation analysis tool</title>
+      <link>/publication/korkmaz2020b/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/korkmaz2020b/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Korkmaz, S., Zarasız, G., Göksülük, D., Senes, M., Sönmez, C., &amp;amp; Yucel, D. (2020). BioVar: an online biological variation analysis tool, Turkish Journal of Biochemistry, 45(5), 479-489. doi: &lt;a href=&#34;https://doi.org/10.1515/tjb-2019-0437&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1515/tjb-2019-0437&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Assessment of Salivary Gland Parenchymal Vascularization Using Power Doppler Ultrasound and Superb Microvascular Imaging: A Potential Tool in the Diagnosis of Sjögren’s Syndrome</title>
+      <link>/publication/ustabasioglu2020/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/ustabasioglu2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Ustabaşıoğlu FE, Korkmaz S, İlgen U, Solak S, Kula O, Turan S, Emmüngil H. Quantitative Assessment of Salivary Gland Parenchymal Vascularization Using Power
+Doppler Ultrasound and Superb Microvascular Imaging: A Potential Tool in the Diagnosis of Sjögren’s Syndrome. Balkan Med J 2020;37:203-7&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Imbalanced Data Classification for Drug Discovery</title>
+      <link>/publication/korkmaz2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/korkmaz2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Korkmaz, S. (2020). Deep learning-based imbalanced data classification for drug discovery. Journal of Chemical Information and Modeling, 60(9), 4180-4190.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Evaluation of the Distribution of CD133, CXCR1 and the Tumor Associated Macrophages in Different Molecular Subtypes of Breast Cancer</title>
+      <link>/publication/ilg%C4%B1n-2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/ilg%C4%B1n-2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Ilgın C, Çomut E, Sarıgül Ç, et al. The evaluation of the distribution of CD133, CXCR1 and the tumor associated macrophages in different molecular subtypes of breast cancer. Histology and Histopathology. 2020 Jan;35(1):83-96. DOI: 10.14670/hh-18-139.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Biological variation of peripheral blood T-lymphocytes</title>
@@ -117,64 +158,6 @@
       
       <guid>/publication/biologicalvariation/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Falay M, Senes M, Korkmaz S, et al. Biological variation estimates of prothrombin time, activated partial thromboplastin time, and fibrinogen in 28 healthy individuals. Int J Lab Hem. 2018;00:1–5.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy</title>
-      <link>/publication/retinal/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/retinal/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Guclu, O., Guclu, H., Huseyin, S., Korkmaz, S., Yuksel, V., Canbaz, S., &amp;amp; Gurlu, V. P. Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy. International Ophthalmology, 1-9, doi: &lt;a href=&#34;https://doi.org/10.1007/s10792-018-0973-4&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1007/s10792-018-0973-4&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Biological Variation Tool</title>
-      <link>/project/bv/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/project/bv/</guid>
-      <description>&lt;p&gt;Analyze biological variation for analytes!&lt;/p&gt;
-
-&lt;p&gt;In this tool, the biological analytes will be analyzed by the pipeline provided by Braga and Panteghini [1].&lt;/p&gt;
-
-&lt;p&gt;The tool includes 3 different outlier detection steps: (i) outliers in the sets of duplicate results, (ii) outliers in the variances of the results from each subject and (iii) outliers in the variances of the results from each subject.
-Normality tests will be performed using Shapiro-Wilk and Kolmogorov-Smirnov tests in two steps: (i) on set of results from each individual, (ii) on mean values of subjects.&lt;/p&gt;
-
-&lt;p&gt;Subset analysis will be performed to compare (i) means and (i) average within-subject total variances of gender groups.
-Analysis of variance or linear mixed effects models will be performed to obtain coefficient of variation results, ANOVA table and quality measures for all subjects, males and females separately. This tool freely available through &lt;a href=&#34;http://opensoft.turcosa.com.tr/BV/&#34; target=&#34;_blank&#34;&gt;http://opensoft.turcosa.com.tr/BV/&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Quaternary Structure Evaluation Tool</title>
-      <link>/project/bet/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/project/bet/</guid>
-      <description>&lt;p&gt;This web tool is developed for evaluation of quaternary structures of protein structures in the Protein Data Bank. There are four different methods for the evaluation process:&lt;/p&gt;
-
-&lt;p&gt;Sequence cluster result with a consistency score for each PDB ID.&lt;/p&gt;
-
-&lt;p&gt;Text mining of the primary citations in order to extract oligomeric state and experimental evidence.&lt;/p&gt;
-
-&lt;p&gt;Stoichiometry and symmetry predictions for quaternary structures using PISA.&lt;/p&gt;
-
-&lt;p&gt;Stoichiometry and symmetry predictions for quaternary structures using EPPIC.&lt;/p&gt;
-
-&lt;p&gt;This tool freely available through &lt;a href=&#34;http://quatstruct.rcsb.org/&#34; target=&#34;_blank&#34;&gt;http://quatstruct.rcsb.org/&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>voomDDA: discovery of diagnostic biomarkers and classification of RNA-seq data</title>
-      <link>/publication/voomdda/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/publication/voomdda/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Full Citation:&lt;/strong&gt; Zararsiz, G., Goksuluk, D., Klaus, B., Korkmaz, S., Eldem, V., Karabulut, E., Ozturk, A. (2017). voomDDA: discovery of diagnostic biomarkers and classification of RNA-seq data. PeerJ, 5, e3890.&lt;/p&gt;
 </description>
     </item>
     
