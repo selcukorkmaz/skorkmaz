@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on DR. SELÇUK KORKMAZ</title>
+    <title>Homes on SELÇUK KORKMAZ, PH.D.</title>
     <link>/home/</link>
-    <description>Recent content in Homes on DR. SELÇUK KORKMAZ</description>
+    <description>Recent content in Homes on SELÇUK KORKMAZ, PH.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <copyright>&amp;copy; 2021 Selçuk Korkmaz</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
-      
-      <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
     
     <item>
       <title></title>
@@ -28,9 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am an assistant professor in the Department of Biostatistics. My research interests are focused on machine learning, epigenetics, proteomics and computer-aided drug design.
-I studied and completed my master at Ege University Department of Biostatistics in 2011 and I have developed new approaches for assessment of bioequivalence studies using nonlinear mixed-effects models.
-I worked as a visiting scientist at RCSB Protein Data Bank (at University of California, San Diego) and have developed new approaches for the evaluation of biological assemblies and protein-protein interfaces.</description>
+      <description>About I am a faculty member in Trakya University Department of Biostatistics where I serve as an associate professor. I develop R packages. I am developer of MVN and co-developer of MLSeq packages. I also develop online webtools. My research interests are focused on bioinformatics, machine learning, deep learning and computer-aided drug design. (Last update: 29/01/2021)</description>
     </item>
     
     <item>
@@ -52,11 +40,29 @@ I worked as a visiting scientist at RCSB Protein Data Bank (at University of Cal
     </item>
     
     <item>
+      <title>Selected Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/home/awards/</guid>
       <description></description>
     </item>
     
@@ -84,9 +90,8 @@ I worked as a visiting scientist at RCSB Protein Data Bank (at University of Cal
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>2017-2018 Spring Semester Courses:
+ Biostatistics: Faculty of Medicine BIS708: Statistical Package Programs, Department of Biostatistics ECZ112: Biostatistics, Faculty of Pharmacy BYS101: Biostatistics, Faculty of Dentistry  </description>
     </item>
     
     <item>

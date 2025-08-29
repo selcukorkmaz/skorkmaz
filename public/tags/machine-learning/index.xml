@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-learning on SELÇUK KORKMAZ, PH.D.</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine-learning on SELÇUK KORKMAZ, PH.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Selçuk Korkmaz</copyright>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quaternary Structure Evaluation Tool</title>
+      <link>/project/bet/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/project/bet/</guid>
+      <description>This web tool is developed for evaluation of quaternary structures of protein structures in the Protein Data Bank. There are four different methods for the evaluation process:
+Sequence cluster result with a consistency score for each PDB ID.
+Text mining of the primary citations in order to extract oligomeric state and experimental evidence.
+Stoichiometry and symmetry predictions for quaternary structures using PISA.
+Stoichiometry and symmetry predictions for quaternary structures using EPPIC.</description>
+    </item>
+    
+    <item>
+      <title>MLViS: machine learning-based virtual screening tool</title>
+      <link>/project/mlvis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/mlvis/</guid>
+      <description>Virtual screening is an important step in early-phase of drug discovery process. Since there are thousands of compounds, this step should be both fast and effective in order to distinguish drug-like and nondrug-like molecules. Statistical machine learning methods are widely used in drug discovery studies for classification purpose. Here, we developed a new tool, which can classify molecules as drug-like and nondrug-like based on various machine learning methods, including discriminant, tree-based, kernel-based, ensemble and other algorithms.</description>
+    </item>
+    
+    <item>
+      <title>voomDDA: Discovery of Diagnostic Biomarkers and Classification of RNA-Seq Data </title>
+      <link>/project/voomdda/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/voomdda/</guid>
+      <description>Identifying the relevant genes (or other genomic features such as transcripts, miRNAs, lncRNAs, etc.) across the conditions (e.g. tumor and non-tumor tissue samples) is a common research interest in gene-expression studies. In this gene selection, researchers are often interested in detecting a small set of genes for diagnostic purpose in medicine that involves identification of the minimal subset of genes that achieves maximal predictive performance. biomarker discovery and classification problem.</description>
+    </item>
+    
+    <item>
+      <title>DDNAA: Decision support system for differential diagnosis of nontraumatic acute abdomen</title>
+      <link>/project/ddnaa/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/project/ddnaa/</guid>
+      <description>A quick evaluation is required for patients with acute abdominal pain. It is crucial to differentiate between surgical and nonsurgical pathology. Practical and accurate tests are essential in this differentiation. Lately, D-dimer level is found to be an important adjuvant in this diagnosis and obviously outperforms leukocyte count, which is widely used for diagnosis of certain cases [1,2]. Here, we handle this problem in a statistical perspective and combine the information from leukocyte count along with D-dimer level to increase the diagnostic accuracy of nontraumatic acute abdomen.</description>
+    </item>
+    
+  </channel>
+</rss>

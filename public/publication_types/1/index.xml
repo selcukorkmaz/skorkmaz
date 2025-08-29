@@ -6,7 +6,7 @@
     <description>Recent content in 1 on DR. SELÇUK KORKMAZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Selcuk Korkmaz</copyright>
     <lastBuildDate>Wed, 31 Dec 2014 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
@@ -18,16 +18,7 @@
       <pubDate>Wed, 31 Dec 2014 00:00:00 +0200</pubDate>
       
       <guid>/publication/mvn/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Drug/nondrug classification using Support Vector Machines with various feature selection strategies</title>
-      <link>/publication/drug/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/drug/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description>Full Citation: Korkmaz, S., Goksuluk, D., Zararsiz, G. (2014). MVN: an R package for assessing multivariate normality. The R Journal, 6(2), 151-162.</description>
     </item>
     
   </channel>

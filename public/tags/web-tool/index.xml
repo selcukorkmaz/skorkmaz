@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web-tool on SELÇUK KORKMAZ, PH.D.</title>
+    <link>/tags/web-tool/</link>
+    <description>Recent content in Web-tool on SELÇUK KORKMAZ, PH.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Selçuk Korkmaz</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/web-tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biological Variation Tool</title>
+      <link>/project/bv/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/project/bv/</guid>
+      <description>Analyze biological variation for analytes!
+In this tool, the biological analytes will be analyzed by the pipeline provided by Braga and Panteghini [1].
+The tool includes 3 different outlier detection steps: (i) outliers in the sets of duplicate results, (ii) outliers in the variances of the results from each subject and (iii) outliers in the variances of the results from each subject. Normality tests will be performed using Shapiro-Wilk and Kolmogorov-Smirnov tests in two steps: (i) on set of results from each individual, (ii) on mean values of subjects.</description>
+    </item>
+    
+    <item>
+      <title>Quaternary Structure Evaluation Tool</title>
+      <link>/project/bet/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/project/bet/</guid>
+      <description>This web tool is developed for evaluation of quaternary structures of protein structures in the Protein Data Bank. There are four different methods for the evaluation process:
+Sequence cluster result with a consistency score for each PDB ID.
+Text mining of the primary citations in order to extract oligomeric state and experimental evidence.
+Stoichiometry and symmetry predictions for quaternary structures using PISA.
+Stoichiometry and symmetry predictions for quaternary structures using EPPIC.</description>
+    </item>
+    
+    <item>
+      <title>geneSurv: An interactive tool for survival analysis in genomics research</title>
+      <link>/project/genesurv/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/project/genesurv/</guid>
+      <description>Survival analysis is often used in cancer studies. It has been shown that combination of clinical data with genomics increases predictive performance of survival analysis methods. This tool provides a wide range of survival analysis methods for genomic research, especially in cancer studies. The tool includes analysis methods including Kaplan-Meier, Cox regression, Penalized Cox regression and Random Survival Forests. It also offers methods for optimal cutoff point determination for continuous markers.</description>
+    </item>
+    
+    <item>
+      <title>MLViS: machine learning-based virtual screening tool</title>
+      <link>/project/mlvis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/mlvis/</guid>
+      <description>Virtual screening is an important step in early-phase of drug discovery process. Since there are thousands of compounds, this step should be both fast and effective in order to distinguish drug-like and nondrug-like molecules. Statistical machine learning methods are widely used in drug discovery studies for classification purpose. Here, we developed a new tool, which can classify molecules as drug-like and nondrug-like based on various machine learning methods, including discriminant, tree-based, kernel-based, ensemble and other algorithms.</description>
+    </item>
+    
+    <item>
+      <title>easyROC: a web-tool for ROC curve analysis </title>
+      <link>/project/easyroc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/easyroc/</guid>
+      <description>The easiest way to perform ROC analysis!
+A receiver operating characteristics (ROC) curve is a graphical approach which assess the performance of a binary classifier system. The ROC curve analysis is widely used in medicine, radiology, biometrics and various application of machine learning.
+Here we developed an easy way to carry out ROC analysis. This application creates ROC curves, calculates area under the curve (AUC) values and confidence intervals for the AUC values, and performs multiple comparisons for ROC curves in a user-friendly, up-to-date and comprehensive way.</description>
+    </item>
+    
+    <item>
+      <title>voomDDA: Discovery of Diagnostic Biomarkers and Classification of RNA-Seq Data </title>
+      <link>/project/voomdda/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/voomdda/</guid>
+      <description>Identifying the relevant genes (or other genomic features such as transcripts, miRNAs, lncRNAs, etc.) across the conditions (e.g. tumor and non-tumor tissue samples) is a common research interest in gene-expression studies. In this gene selection, researchers are often interested in detecting a small set of genes for diagnostic purpose in medicine that involves identification of the minimal subset of genes that achieves maximal predictive performance. biomarker discovery and classification problem.</description>
+    </item>
+    
+    <item>
+      <title>DDNAA: Decision support system for differential diagnosis of nontraumatic acute abdomen</title>
+      <link>/project/ddnaa/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/project/ddnaa/</guid>
+      <description>A quick evaluation is required for patients with acute abdominal pain. It is crucial to differentiate between surgical and nonsurgical pathology. Practical and accurate tests are essential in this differentiation. Lately, D-dimer level is found to be an important adjuvant in this diagnosis and obviously outperforms leukocyte count, which is widely used for diagnosis of certain cases [1,2]. Here, we handle this problem in a statistical perspective and combine the information from leukocyte count along with D-dimer level to increase the diagnostic accuracy of nontraumatic acute abdomen.</description>
+    </item>
+    
+    <item>
+      <title>MVN: a web-tool for assessing multivariate normality</title>
+      <link>/project/mvn/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0300</pubDate>
+      
+      <guid>/project/mvn/</guid>
+      <description>Assessing the assumption of multivariate normality is required by many parametric multivariate statistical methods, such as MANOVA, linear discriminant analysis, principal component analysis, canonical correlation, etc. It is important to assess multivariate normality in order to proceed with such statistical methods. There are many analytical methods proposed for checking multivariate normality. However, deciding which method to use is a challenging process, since each method may give different results under certain conditions.</description>
+    </item>
+    
+  </channel>
+</rss>

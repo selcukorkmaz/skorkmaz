@@ -1,16 +1,169 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on DR. SELÇUK KORKMAZ</title>
+    <title>2 on SELÇUK KORKMAZ, PH.D.</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on DR. SELÇUK KORKMAZ</description>
+    <description>Recent content in 2 on SELÇUK KORKMAZ, PH.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <copyright>&amp;copy; 2021 Selçuk Korkmaz</copyright>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BioVar: an online biological variation analysis tool</title>
+      <link>/publication/korkmaz2020b/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/korkmaz2020b/</guid>
+      <description>Full Citation: Korkmaz, S., Zarasız, G., Göksülük, D., Senes, M., Sönmez, C., &amp;amp; Yucel, D. (2020). BioVar: an online biological variation analysis tool, Turkish Journal of Biochemistry, 45(5), 479-489. doi: https://doi.org/10.1515/tjb-2019-0437</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Assessment of Salivary Gland Parenchymal Vascularization Using Power Doppler Ultrasound and Superb Microvascular Imaging: A Potential Tool in the Diagnosis of Sjögren’s Syndrome</title>
+      <link>/publication/ustabasioglu2020/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/ustabasioglu2020/</guid>
+      <description>Full Citation: Ustabaşıoğlu FE, Korkmaz S, İlgen U, Solak S, Kula O, Turan S, Emmüngil H. Quantitative Assessment of Salivary Gland Parenchymal Vascularization Using Power Doppler Ultrasound and Superb Microvascular Imaging: A Potential Tool in the Diagnosis of Sjögren’s Syndrome. Balkan Med J 2020;37:203-7</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Imbalanced Data Classification for Drug Discovery</title>
+      <link>/publication/korkmaz2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/korkmaz2020/</guid>
+      <description>Full Citation: Korkmaz, S. (2020). Deep learning-based imbalanced data classification for drug discovery. Journal of Chemical Information and Modeling, 60(9), 4180-4190.</description>
+    </item>
+    
+    <item>
+      <title>The Evaluation of the Distribution of CD133, CXCR1 and the Tumor Associated Macrophages in Different Molecular Subtypes of Breast Cancer</title>
+      <link>/publication/ilg%C4%B1n-2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/ilg%C4%B1n-2020/</guid>
+      <description>Full Citation: Ilgın C, Çomut E, Sarıgül Ç, et al. The evaluation of the distribution of CD133, CXCR1 and the tumor associated macrophages in different molecular subtypes of breast cancer. Histology and Histopathology. 2020 Jan;35(1):83-96. DOI: 10.14670/hh-18-139.</description>
+    </item>
+    
+    <item>
+      <title>Biological variation of peripheral blood T-lymphocytes</title>
+      <link>/publication/falayetal2019/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/falayetal2019/</guid>
+      <description>Full Citation: Falay, M., Senes, M., Korkmaz, S., Zararsız, G., Turhan, T., Okay, M., Yucel, D. (2019). Biological variation of peripheral blood T-lymphocytes. Journal of immunological methods, 470, 1-5.</description>
+    </item>
+    
+    <item>
+      <title>Cardiac Magnetic Resonance Imaging and Transthoracic Echocardiography: Investigation of Concordance between the Two Methods for Measurement of the Cardiac Chamber</title>
+      <link>/publication/gurdogan2019/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/gurdogan2019/</guid>
+      <description>Full Citation: Gürdoğan M, Ustabaşıoğlu FE, Kula O, Korkmaz S. Cardiac Magnetic Resonance Imaging and Transthoracic Echocardiography: Investigation of Concordance between the Two Methods for Measurement of the Cardiac Chamber. Medicina. 2019; 55(6):260. https://doi.org/10.3390/medicina55060260</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Thyroid Stimulating Hormone Level Within the Reference Range on In-Hospital and Short-Term Prognosis in Acute Coronary Syndrome Patients</title>
+      <link>/publication/gurdogan2019b/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/gurdogan2019b/</guid>
+      <description>Full Citation: Gürdoğan M, Altay S, Korkmaz S, Kaya Ç, Zeybey U, Ebik M, Demir M. The Effect of Thyroid Stimulating Hormone Level Within the Reference Range on In-Hospital and Short-Term Prognosis in Acute Coronary Syndrome Patients. Medicina. 2019; 55(5):175. https://doi.org/10.3390/medicina55050175</description>
+    </item>
+    
+    <item>
+      <title>MLSeq: Machine learning interface for RNA sequencing data</title>
+      <link>/publication/mlseq/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/mlseq/</guid>
+      <description>Full Citation: Göksülük D, Zararsız G, Korkmaz S, Eldem V, Klaus B, Öztürk A, Karaağaoğlu AE. MLSeq: Machine learning interface for RNA sequencing data. Computer Methods and Programs in Biomedicine. (Accepted/In press).</description>
+    </item>
+    
+    <item>
+      <title>Can myometrial thickness/cervical length ratio predict preterm delivery in singleton pregnancies with threatened preterm labor? A prospective study</title>
+      <link>/publication/cervical/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/cervical/</guid>
+      <description>Full Citation: Gürsoy, S. E., Sayin, N. C., Korkmaz, S., Sutcu, H., Inan, C., Uzun, I. C., &amp;amp; Varol, F. G. (2019). Can myometrial thickness/cervical length ratio predict preterm delivery in singleton pregnancies with threatened preterm labor? A prospective study. Archives of gynecology and obstetrics.</description>
+    </item>
+    
+    <item>
+      <title>Small Drug Molecule Classification Using Deep Neural Networks</title>
+      <link>/publication/deepdrug/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/deepdrug/</guid>
+      <description>Full Citation: Korkmaz S. Small Drug Molecule Classification Using Deep Neural Networks. Turkiye Klinikleri J Biostat. (Accepted/In press).</description>
+    </item>
+    
+    <item>
+      <title>The Relationship Between Diffusion-Weighted Magnetic Resonance Imaging Lesions and 24-Hour Rhythm Holter Findings in Patients With Cryptogenic Stroke</title>
+      <link>/publication/cardiology/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/cardiology/</guid>
+      <description>Full Citation: Gürdoğan, M.; Kehaya, S.; Korkmaz, S.; Altay, S.; Özkan, U.; Kaya, Ç. The Relationship between Diffusion-Weighted Magnetic Resonance Imaging Lesions and 24-Hour Rhythm Holter Findings in Patients with Cryptogenic Stroke . Medicina 2019, 55, 38.</description>
+    </item>
+    
+    <item>
+      <title>Machine learning based classification of cells into chronological stages using single-cell transcriptomics</title>
+      <link>/publication/ageml/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/ageml/</guid>
+      <description>Full Citation: Singh, S. P., Janjuha, S., Chaudhuri, S. et al. (2018). Machine learning based classification of cells into chronological stages using single-cell transcriptomics. Scientific Reports, (Accepted/In press).</description>
+    </item>
+    
+    <item>
+      <title>The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study</title>
+      <link>/publication/children/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/children/</guid>
+      <description>Full Citation: Bal, C., Öztürk, A., Çiçek, et al. (2018). The Relationship Between Blood Pressure and Sleep Duration in Turkish Children: A Cross-Sectional Study. Journal of clinical research in pediatric endocrinology, 10(1), 51.</description>
+    </item>
+    
+    <item>
+      <title>Investigation of Protein Quaternary Structure via Stoichiometry and Symmetry Information</title>
+      <link>/publication/protein/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/protein/</guid>
+      <description>Full Citation: Korkmaz S, Duarte JM, Prlić A, Goksuluk D, Zararsiz G, Saracbasi O, et al. (2018) Investigation of protein quaternary structure via stoichiometry and symmetry ınformation. PLoS ONE 13(6): e0197176. https://doi.org/10.1371/journal.pone.0197176</description>
+    </item>
+    
+    <item>
+      <title>Biological variation estimates of prothrombin time, activated partial thromboplastin time, and fibrinogen in 28 healthy individuals.</title>
+      <link>/publication/biologicalvariation/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/biologicalvariation/</guid>
+      <description>Full Citation: Falay M, Senes M, Korkmaz S, et al. Biological variation estimates of prothrombin time, activated partial thromboplastin time, and fibrinogen in 28 healthy individuals. Int J Lab Hem. 2018;00:1–5.</description>
+    </item>
+    
+    <item>
+      <title>Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy</title>
+      <link>/publication/retinal/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/retinal/</guid>
+      <description>Full Citation: Guclu, O., Guclu, H., Huseyin, S., Korkmaz, S., Yuksel, V., Canbaz, S., &amp;amp; Gurlu, V. P. Retinal ganglion cell complex and peripapillary retinal nerve fiber layer thicknesses following carotid endarterectomy. International Ophthalmology, 1-9, doi: https://doi.org/10.1007/s10792-018-0973-4</description>
+    </item>
+    
+    <item>
+      <title>voomDDA: discovery of diagnostic biomarkers and classification of RNA-seq data</title>
+      <link>/publication/voomdda/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/voomdda/</guid>
+      <description>Full Citation: Zararsiz, G., Goksuluk, D., Klaus, B., Korkmaz, S., Eldem, V., Karabulut, E., Ozturk, A. (2017). voomDDA: discovery of diagnostic biomarkers and classification of RNA-seq data. PeerJ, 5, e3890.</description>
+    </item>
     
     <item>
       <title>geneSurv: An interactive web-based tool for survival analysis in genomics research</title>
@@ -18,7 +171,43 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
       <guid>/publication/genesurv/</guid>
+      <description>Full Citation: Korkmaz, S., Goksuluk, D., Zararsiz, G., Karahan, S. (2017). geneSurv: An interactive web-based tool for survival analysis in genomics research. Computers in biology and medicine, 89, 487-496.</description>
+    </item>
+    
+    <item>
+      <title>geneSurv: An interactive web-based tool for survival analysis in genomics research</title>
+      <link>/recent_publication/genesurv/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/recent_publication/genesurv/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>A comprehensive simulation study on classification of RNA-Seq data</title>
+      <link>/publication/rnaseq/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/rnaseq/</guid>
+      <description>Full Citation: Zararsız G, Goksuluk D, Korkmaz S, Eldem V, Zararsiz GE, Duru IP, et al. (2017) A comprehensive simulation study on classification of RNA-Seq data. PLoS ONE 12(8): e0182507. https://doi.org/10.1371/journal.pone.0182507</description>
+    </item>
+    
+    <item>
+      <title>easyROC: an interactive web-tool for ROC curve analysis using R language environment</title>
+      <link>/publication/easyroc/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/easyroc/</guid>
+      <description>Full Citation: Goksuluk, D., Korkmaz, S., Zararsiz, G., Karaagaoglu, A. E. (2016). easyROC: an interactive web-tool for ROC curve analysis using R language environment. R Journal, 8(213).</description>
+    </item>
+    
+    <item>
+      <title>Statistical learning approaches in diagnosing patients with nontraumatic acute abdomen</title>
+      <link>/publication/nontraumatic/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/nontraumatic/</guid>
+      <description>Full Citation: Zararsız, G., Akyildiz, H. Y., Göksülük, D., Korkmaz, S., ÖZTÜRK, A. (2016). Statistical learning approaches in diagnosing patients with nontraumatic acute abdomen. Turkish Journal of Electrical Engineering &amp;amp; Computer Sciences, 24(5), 3685-3697.</description>
     </item>
     
     <item>
@@ -27,7 +216,43 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/mlvis/</guid>
+      <description>Full Citation: Korkmaz S, Zararsiz G, Goksuluk D (2015) MLViS: A Web Tool for Machine Learning-Based Virtual Screening in Early-Phase of Drug Discovery and Development. PLoS ONE 10(4): e0124600. doi:10.1371/journal.pone.0124600</description>
+    </item>
+    
+    <item>
+      <title>MLViS: A Web Tool for Machine Learning-Based Virtual Screening in Early-Phase of Drug Discovery and Development</title>
+      <link>/recent_publication/mlvis/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/recent_publication/mlvis/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>MVN: An R Package for Assessing Multivariate Normality</title>
+      <link>/publication/mvn/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/mvn/</guid>
+      <description>Full Citation: Korkmaz, S., Goksuluk, D., Zararsiz, G. (2014). MVN: an R package for assessing multivariate normality. The R Journal, 6(2), 151-162.</description>
+    </item>
+    
+    <item>
+      <title>Drug/nondrug classification using Support Vector Machines with various feature selection strategies</title>
+      <link>/publication/drug/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/drug/</guid>
+      <description>Full Citation: Korkmaz, S., Zararsiz, G., Goksuluk, D. (2014). Drug/nondrug classification using support vector machines with various feature selection strategies. computer methods and programs in biomedicine, 117(2), 51-60.</description>
+    </item>
+    
+    <item>
+      <title>Comparison of efficacy between low-fluence and half-dose verteporfin photodynamic therapy for chronic central serous chorioretinopathy</title>
+      <link>/publication/optha/</link>
+      <pubDate>Sat, 05 Apr 2014 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/optha/</guid>
+      <description>Full Citation: Alkin, Z., Perente, I., Ozkaya, et al. (2014). Comparison of efficacy between low-fluence and half-dose verteporfin photodynamic therapy for chronic central serous chorioretinopathy. Clinical Ophthalmology (Auckland, NZ), 8, 685.</description>
     </item>
     
   </channel>

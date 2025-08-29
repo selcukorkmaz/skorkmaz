@@ -20,7 +20,7 @@
   <meta name="description" content="Survival analysis methods are often used in cancer studies. It has been shown that the combination of clinical data with genomics increases the predictive performance of survival analysis methods. But, this leads to a high-dimensional data problem. Fortunately, new methods have been developed in the last decade to overcome this problem. However, there is a strong need for easily accessible, user-friendly and interactive tool to perform survival analysis in the presence of genomics data. We developed an open-source and freely available web-based tool for survival analysis methods that can deal with high-dimensional data. This tool includes classical methods, such as Kaplan-Meier, Cox proportional hazards regression, and advanced methods, such as penalized Cox regression and Random Survival Forests. It also offers an optimal cutoff determination method based on maximizing several test statistics. The tool has a simple and interactive interface, and it can handle high dimensional data through feature selection and ensemble methods. To dichotomize gene expressions, geneSurv can identify optimal cutoff points. Users can upload their microarray, RNA-Seq, chip-Seq, proteomics, metabolomics or clinical data as a nxp dimensional data matrix, where n refers to samples and p refers to genes. This tool is available free at www.biosoft.hacettepe.edu.tr/geneSurv. All source code is available at https://github.com/selcukorkmaz/geneSurv under the GPL-3 license.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/recent_publication/genesurv/">
+  <link rel="alternate" hreflang="en-us" href="../../recent_publication/genesurv/">
 
   
 
@@ -29,7 +29,7 @@
 
   
   
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="#0095eb">
   
   
   
@@ -53,32 +53,46 @@
   
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Playfair&#43;Display:400,700%7cFauna&#43;One">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
   
-  <link rel="stylesheet" href="/styles.css">
-  
-
+  <link rel="stylesheet" href="../../styles.css">
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="DR. SELÇUK KORKMAZ">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="DR. SELÇUK KORKMAZ">
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-98347220-2', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  
+  <link rel="alternate" href="../../index.xml" type="application/rss+xml" title="SELÇUK KORKMAZ, PH.D.">
+  <link rel="feed" href="../../index.xml" type="application/rss+xml" title="SELÇUK KORKMAZ, PH.D.">
+  
 
-  <link rel="canonical" href="/recent_publication/genesurv/">
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="icon" type="image/png" href="../../img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+
+  <link rel="canonical" href="../../recent_publication/genesurv/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@selcukorkmaz">
   <meta property="twitter:creator" content="@selcukorkmaz">
   
-  <meta property="og:site_name" content="DR. SELÇUK KORKMAZ">
+  <meta property="og:site_name" content="SELÇUK KORKMAZ, PH.D.">
   <meta property="og:url" content="/recent_publication/genesurv/">
-  <meta property="og:title" content="geneSurv: An interactive web-based tool for survival analysis in genomics research | DR. SELÇUK KORKMAZ">
+  <meta property="og:title" content="geneSurv: An interactive web-based tool for survival analysis in genomics research | SELÇUK KORKMAZ, PH.D.">
   <meta property="og:description" content="Survival analysis methods are often used in cancer studies. It has been shown that the combination of clinical data with genomics increases the predictive performance of survival analysis methods. But, this leads to a high-dimensional data problem. Fortunately, new methods have been developed in the last decade to overcome this problem. However, there is a strong need for easily accessible, user-friendly and interactive tool to perform survival analysis in the presence of genomics data. We developed an open-source and freely available web-based tool for survival analysis methods that can deal with high-dimensional data. This tool includes classical methods, such as Kaplan-Meier, Cox proportional hazards regression, and advanced methods, such as penalized Cox regression and Random Survival Forests. It also offers an optimal cutoff determination method based on maximizing several test statistics. The tool has a simple and interactive interface, and it can handle high dimensional data through feature selection and ensemble methods. To dichotomize gene expressions, geneSurv can identify optimal cutoff points. Users can upload their microarray, RNA-Seq, chip-Seq, proteomics, metabolomics or clinical data as a nxp dimensional data matrix, where n refers to samples and p refers to genes. This tool is available free at www.biosoft.hacettepe.edu.tr/geneSurv. All source code is available at https://github.com/selcukorkmaz/geneSurv under the GPL-3 license.">
   <meta property="og:locale" content="en-us">
   
@@ -90,7 +104,7 @@
   
   
 
-  <title>geneSurv: An interactive web-based tool for survival analysis in genomics research | DR. SELÇUK KORKMAZ</title>
+  <title>geneSurv: An interactive web-based tool for survival analysis in genomics research | SELÇUK KORKMAZ, PH.D.</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -109,7 +123,7 @@
         <span class="icon-bar"></span>
       </button>
       
-      <a class="navbar-brand" href="/">DR. SELÇUK KORKMAZ</a>
+      <a class="navbar-brand" href="../../">SELÇUK KORKMAZ, PH.D.</a>
     </div>
 
     
@@ -129,7 +143,7 @@
         
 
         <li class="nav-item">
-          <a href="/#about">
+          <a href="../../#about">
             
             <span>Home</span>
             
@@ -148,7 +162,7 @@
         
 
         <li class="nav-item">
-          <a href="/#publications">
+          <a href="../../#publications">
             
             <span>Publications</span>
             
@@ -167,26 +181,7 @@
         
 
         <li class="nav-item">
-          <a href="/#posts">
-            
-            <span>Posts</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#projects">
+          <a href="../../#projects">
             
             <span>Projects</span>
             
@@ -205,7 +200,7 @@
         
 
         <li class="nav-item">
-          <a href="/#teaching">
+          <a href="../../#teaching">
             
             <span>Teaching</span>
             
@@ -224,7 +219,26 @@
         
 
         <li class="nav-item">
-          <a href="/#contact">
+          <a href="../../img/selcuk_korkmaz_cv_english.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#contact">
             
             <span>Contact</span>
             
@@ -347,7 +361,7 @@
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2018 Selçuk Korkmaz &middot; 
+      &copy; 2021 Selçuk Korkmaz &middot; 
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -404,7 +418,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
     
     
-    <script src="/js/hugo-academic.js"></script>
+    <script src="../../js/hugo-academic.js"></script>
     
 
     

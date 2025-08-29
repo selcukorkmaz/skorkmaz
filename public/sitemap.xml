@@ -5,6 +5,177 @@
     
     <url>
     
+      <loc>/publication/korkmaz2020b/</loc>
+      <lastmod>2020-10-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ustabasioglu2020/</loc>
+      <lastmod>2020-07-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/korkmaz2020/</loc>
+      <lastmod>2020-06-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ilg%C4%B1n-2020/</loc>
+      <lastmod>2020-01-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/falayetal2019/</loc>
+      <lastmod>2019-07-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/gurdogan2019/</loc>
+      <lastmod>2019-07-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/gurdogan2019b/</loc>
+      <lastmod>2019-05-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/mlseq/</loc>
+      <lastmod>2019-04-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cervical/</loc>
+      <lastmod>2019-03-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/deepdrug/</loc>
+      <lastmod>2019-03-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cardiology/</loc>
+      <lastmod>2019-01-23T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ageml/</loc>
+      <lastmod>2018-11-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/children/</loc>
+      <lastmod>2018-08-23T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/protein/</loc>
+      <lastmod>2018-05-31T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/biologicalvariation/</loc>
+      <lastmod>2018-05-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/retinal/</loc>
+      <lastmod>2018-05-03T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/bv/</loc>
+      <lastmod>2018-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/bet/</loc>
+      <lastmod>2018-03-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/voomdda/</loc>
+      <lastmod>2017-10-06T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/genesurv/</loc>
       <lastmod>2017-10-01T00:00:00+03:00</lastmod>
     </url>
@@ -23,7 +194,25 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>/publication/rnaseq/</loc>
+      <lastmod>2017-08-23T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/genesurv/</loc>
+      <lastmod>2017-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/award/</loc>
       <lastmod>2017-01-01T00:00:00+03:00</lastmod>
     </url>
     
@@ -32,7 +221,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+03:00</lastmod>
     </url>
     
@@ -59,15 +248,6 @@
     
     <url>
     
-      <loc>/recent_publication/</loc>
-      <lastmod>2017-01-01T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+03:00</lastmod>
     </url>
@@ -77,7 +257,45 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
+      <xhtml:link rel="alternate" href="/recent_publication/" hreflang="en"/>
+    
+      <loc>/recent_publication/</loc>
+      <lastmod>2017-01-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/easyroc/</loc>
+      <lastmod>2016-12-31T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/nontraumatic/</loc>
+      <lastmod>2016-06-20T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/mlvis/</loc>
       <lastmod>2016-04-27T00:00:00+03:00</lastmod>
     </url>
     
@@ -86,8 +304,26 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
+      <loc>/project/easyroc/</loc>
       <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/voomdda/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/award/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
     </url>
     
   
@@ -122,8 +358,26 @@
     
     <url>
     
+      <loc>/award/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/ddnaa/</loc>
+      <lastmod>2015-04-27T00:00:00+03:00</lastmod>
     </url>
     
   
@@ -149,9 +403,28 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2014-12-31T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>/project/mvn/</loc>
+      <lastmod>2014-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/optha/</loc>
+      <lastmod>2014-04-05T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/recent_publication/" hreflang="en"/>
+    
+      <loc>/recent_publication/</loc>
+      <lastmod>2017-10-01T00:00:00+03:00</lastmod>
     </url>
     
   
@@ -160,7 +433,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2017-10-01T00:00:00+03:00</lastmod>
+      <lastmod>2020-10-03T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -178,28 +451,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2018-03-27T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -219,7 +472,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <lastmod>2018-04-27T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,7 +482,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2014-12-31T00:00:00+02:00</lastmod>
+      <lastmod>2020-10-03T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -268,8 +521,28 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/web-tool/</loc>
+      <lastmod>2018-04-27T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
